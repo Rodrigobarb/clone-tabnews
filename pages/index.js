@@ -1,5 +1,7 @@
 import Link from 'next/link';
-
+function Home() {
+  return <h1>Teste</h1>;
+}
 export default function Home() {
   return (  
     <div style={{ padding: '20px', fontFamily: 'Arial, sans-serif' }}>
@@ -10,3 +12,12 @@ export default function Home() {
     </div>
   );
 }
+
+function teste() {
+  console.log("Teste");
+}
+
+function teste2(){
+  console.log("indentação errada")
+}
+export default Home;
