@@ -3,11 +3,16 @@ function Home() {
   return <h1>Teste22222222</h1>;
 }
 
-function teste() {
-  console.log("testao");
+function lixo() {
+  console.log("lixo");
 }
 
-function teste2(){
-  console.log("indentação errada")
+function lixo2() {
+  console.log("lixo2");
 }
+
+function teste2(x) {
+  console.log("indentação" + "errada")
+}
+
 export default Home;
