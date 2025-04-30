@@ -3,10 +3,10 @@ function Home() {
 }
 
 function teste() {
-  console.log("teste");
+  console.log("testao");
 }
 
 function teste2(){
-  console.log("indentação errada")
+  console.log("indentação erradaaaa")
 }
 export default Home;
