@@ -3,7 +3,7 @@ function Home() {
 }
 
 function teste() {
-  console.log("Teste");
+  console.log("teste");
 }
 
 function teste2(){
