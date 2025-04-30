@@ -1,6 +1,6 @@
 import Link from 'next/link';
 function Home() {
-  return <h1>Teste22222</h1>;
+  return <h1>Teste22222222</h1>;
 }
 
 function teste() {
